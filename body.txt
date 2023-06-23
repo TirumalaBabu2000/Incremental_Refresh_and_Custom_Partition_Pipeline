@@ -1,0 +1,10 @@
+{
+  "connectionstring" : "data source=sql.database.windows.net;initial catalog=sqldb;persist security info=True;user id=az-sqladmin;encrypt=True;trustservercertificate=False",
+  "datasource" : "Sql",
+  "workspace" : "Sales Workspace",
+  "dataset" : "TestPartitions",
+  "table" : "FactSale",
+  "partition": "CurrentYear",
+  "sourceobject" : "dbo.vw_FactSale",
+  "partitionstatement": "year>=2023"
+}

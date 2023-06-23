@@ -1,0 +1,6 @@
+selected resource name:		PL_Process_XMLA_Refresh
+selected resource type:		pipeline
+factory name:			df-devtest
+factory location:		centralus
+subscription id:		a6418c4c-622a-49f2-b30b-10ff0e0180fd
+time of download (UTC):		Wed, 21 Jun 2023 11:26:12 GMT
